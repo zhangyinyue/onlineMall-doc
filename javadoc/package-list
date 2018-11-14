@@ -1,0 +1,11 @@
+com.mall.goods
+com.mall.goods.client
+com.mall.goods.config
+com.mall.goods.console
+com.mall.goods.controller
+com.mall.goods.dto
+com.mall.goods.module.bean
+com.mall.goods.module.dao
+com.mall.goods.module.dao.impl
+com.mall.goods.module.mapper
+com.mall.goods.service.impl
